@@ -30,6 +30,7 @@ O arquivo [`.mcp.json`](.mcp.json) registra o REA como servidor MCP para qualque
 | 1 | Observar | ✅ Concluída | [docs/01-observacao.md](docs/01-observacao.md) |
 | 2 | Dissecar o bundle JS | ✅ Concluída | [docs/02-dissecacao.md](docs/02-dissecacao.md) |
 | 3 | Explicar com evidências | ⏳ Próxima | |
+| | Como testar | ✅ | [docs/como-testar.md](docs/como-testar.md) |
 | 4 | Reconstruir (versão própria) | ⬜ | |
 
 ## Regras do jogo (governança)
